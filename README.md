@@ -19,7 +19,7 @@
 
 aedb2470e1924c435448d33d1ea80e07  常凯申文集（第一卷）.pdf
 
-6、个人微博：<a href="https://weibo.com/world2049/">@2049年的世界</a>
+6、个人微博：<a href="https://weibo.com/world2049/" target="_blank">@2049年的世界</a>
 
 
 谢谢大家！
